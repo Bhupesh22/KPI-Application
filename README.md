@@ -3,7 +3,7 @@ Simple web application using flask,dash components &amp; plotly for vizualizatio
 
 Installation:
 
-pip install dash &nbsp<br>;
-pip install dash-core-components  &nbsp<br>;
-pip install pandas  &nbsp<br>;
-pip install plotly==4.3.0  &nbsp<br>;
+pip install <br>
+pip install dash-core-components <br>
+pip install pandas <br>
+pip install plotly==4.3.0 <br>
